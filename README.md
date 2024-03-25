@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate and work either full-time or part-time
-- 📫 How to reach me ... (Email: andymonk8@gmail.com)
+- 📫 How to reach me ... (Portfolio: https://andypham.dev/)
 
 <!---
 andymonk8/andymonk8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
