@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @andymonk8
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate and work either full-time or part-time
 - 📫 How to reach me ... (Portfolio: https://andypham.dev/)
 
